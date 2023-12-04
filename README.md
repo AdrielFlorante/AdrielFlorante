@@ -1,3 +1,5 @@
+# Hello, I'm Adriel Cedrick B. Florante! 👋
+
 ## About me:
 I am Adriel Cedrick B. Florante, I'm a student in Computer Science and I aspire to be a software developer.
 
