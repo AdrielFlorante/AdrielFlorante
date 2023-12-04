@@ -2,7 +2,7 @@
 I am Adriel Cedrick B. Florante, I'm a student in Computer Science and I aspire to be a software developer.
 
 ## Education:
-- BS Computer Science New Era University _(2022 - Present)_
+- BS Computer Science New Era University (2022 - Present)
 
 ## Certification:
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=83D6D79E79283E8B186C1B8B9C17145C652DF4E64FF43C9B75A91E5C8B2FF655)
