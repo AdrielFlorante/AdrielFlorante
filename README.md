@@ -16,6 +16,7 @@ I am Adriel Cedrick B. Florante, I'm a student in Computer Science and I aspire 
 - **Tools:**  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## You may reach me at:
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/adriel-cedrick-b-florante-b875022a3/)
 - **Email:** adrielcedrickf@gmail.com
 
 <!--
