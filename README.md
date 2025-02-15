@@ -13,7 +13,7 @@ I am Adriel Cedrick B. Florante, I'm a student in Computer Science and I aspire 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c178873dbcdf48c794e879330bd07bae)
 
 ## Skill sets:
-- **Programming:**  Java, SQL, PHP, Python, Javascript & React Frameworks: Next.js
+- **Programming:**  Java, SQL, PHP, Python, HTML, Javascript, JSX, React Web Apps
 - **Databases:** IBM DB2 Cloud, Supabase
 - **Tools:**  Lucidchart, Jaspersoft Studio, Eclipse, IntelliJ, VS Code
 
